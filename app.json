@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "AwesomeProject",
+    "slug": "AwesomeProject",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./component/app/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./component/app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./component/app/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./component/app/assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "11ec7636-0f38-4059-9d52-7aa8ad0c69fe"
+      }
+    }
+  }
+}
