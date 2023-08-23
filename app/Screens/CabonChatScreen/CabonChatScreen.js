@@ -84,7 +84,7 @@ const CabonChatScreen = () => {
     labels: ["January", "February", "March", "April", "May", "June"],
     datasets: [
       {
-        data: [45, 25, 80, 30, 50, 75]
+        data: [45, 250, 80, 30, 50, 45]
       }
     ]
     
